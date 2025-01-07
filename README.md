@@ -1,2 +1,3 @@
-# .github
-Readme for R0Wi-DEV
+# R0Wi-DEV
+Public organization for R0Wi.
+See https://github.com/R0Wi
